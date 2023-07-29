@@ -150,10 +150,10 @@
     border-radius: 30px;
     box-shadow: 3px 7px 5px 3px;
 }
-.social_icon{
-    display: flex;
+.footer{
+    text-align: center;
 }
-.social_icon a img {
+.footer a img {
     width: 5rem;
     height: 5rem;
     opacity: 0.6;
@@ -164,4 +164,7 @@
         flex-direction: column;
     }
       
+}
+.footer{
+    margin: auto;
 }
